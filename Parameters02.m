@@ -5,6 +5,7 @@ h_head = 1.8;
 r_body = 0.05;
 m_body = 80;
 theta_init = -0.05;
+% theta_init = -0.07;
 
 
 % delays
@@ -44,3 +45,4 @@ alpha_theta = 0.0;
 alpha_v = 3.0 * 5/9;
 alpha_a = 0.3 * 5/9;
 alpha_f = 0;
+

@@ -108,6 +108,7 @@ function ...
     tendon_spring_order = 1;
     force_velocity_slope_factor = 2;
     theta_init = -0.05;
+%     theta_init = -0.07;
 
     d_l_CE = 0.06;
     d_v_CE = 0.03;
